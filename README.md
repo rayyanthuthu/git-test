@@ -1,4 +1,4 @@
 # git-test
 
 My first Github repo!
-Hello Odin!
+Hello from the Odin project!
